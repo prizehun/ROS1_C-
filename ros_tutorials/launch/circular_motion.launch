@@ -1,0 +1,4 @@
+<launch>
+<node pkg="ros_tutorials" type="circular_motion_publisher" name="circular_motion_publisher"/>
+<node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+</launch>
